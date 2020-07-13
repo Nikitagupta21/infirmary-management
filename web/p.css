@@ -1,0 +1,180 @@
+/*#content{
+    max-width:2px;
+   
+    overflow: hidden;
+    transition: max-width 1s;
+}
+#content.open{
+    max-width:300px;
+     transition: max-width 1s;
+}
+#show{
+    margin-bottom: 0px;
+      display: block;
+    cursor: pointer;
+}
+li{
+margin-top: 10px;
+display:block;
+}
+a{
+text-decoration:none;
+color:black;
+text-transform:uppercase;
+}*/
+/*.y{
+    margin-left:50px;
+    width:1280px;
+     height: 800px;
+    background-color:rgb(235,235,235);
+    background-image:url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7864420/600/400/m2/fpnw/wm0/coronavirus-blue-01-.jpg?1583272879&s=13dc0b0d855132420f2a07fd12c74b85");
+    background-position:center;
+    float:right;
+}
+img{
+    float:right;
+}
+.nav{
+   
+    text-align: left;
+    height: 30px;
+    width: 50px;
+   background-color: white;
+    margin-top: 10px;
+}
+.head{
+    
+      text-align: left;
+        width: 100%;
+        display: none;
+    font-family: cursive;
+        
+}
+.head a{
+  clear:left;
+    font-size: 11px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color:black;
+       line-height: 30px;
+      display: block;
+        margin-top:10px;
+    width: 50px;
+    background-color: white;
+    margin-left: 0;
+    font-weight: bold;
+    
+}
+h1{
+    float:right;
+}
+a:hover{
+color:rgb(0,19,155);
+    background-color: rgb(206,206,206);
+    font-weight: bolder;
+    
+    
+}
+label{
+    margin:0 40px 0 0;
+    font-size: 26px;
+     line-height: 30px;
+      display: block;
+    cursor:pointer;
+    width: 26px;
+  
+}
+#toggle{
+    display:none;
+}
+
+#toggle:checked + .head{
+    display:block;
+}
+label:hover{
+    color:rgb(0,19,155);
+    background-color: rgb(206,206,206);
+}
+*/
+/*<script src="text.js"></script>*/
+  
+/*animation-name: fade ;
+    animation-duration: 20s;
+}
+@keyframes fade {
+  from {background-image: url(https://cdn.pixabay.com/photo/2016/10/22/17/02/blue-1761175_960_720.jpg);}
+  to {background-image: url(https://images.unsplash.com/photo-1535443274868-756b0f070b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80); }
+}*/
+.head{
+height:30px;
+background-image:url(https://cdn.pixabay.com/photo/2016/10/22/17/02/blue-1761175_960_720.jpg);
+
+border-radius:10px;
+}
+.head ul{
+text-align:right;
+list-style-type:none;
+margin-right:50px;
+
+}
+.head li{
+margin-top: 5px;
+margin-left:30px;
+display:inline-block;
+}
+.head a{
+    font-size: 16px;
+    font-family: Helvetica;
+text-decoration:none;
+color:white;
+text-transform:capitalize;
+}
+.head a:hover{
+color:black;
+}
+.head a:active{
+color:white;
+}
+/*.header{
+height:200px;
+width:200px;
+border-radius:100px;
+top:200px;
+left:400px;
+position:absolute;
+background-color:blue;
+opacity:0.1;
+}
+.header2{
+height:200px;
+width:200px;
+border-radius:100px;
+top:350px;
+left:350px;
+position:absolute;
+background-color:yellow;
+opacity:0.3;
+}
+.header3{
+height:200px;
+width:200px;
+border-radius:100px;
+top:250px;
+left:250px;
+position:absolute;
+background-color:red;
+opacity:0.4;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s height 2s;
+}
+
+div:hover {
+      height: 300px;
+  width: 300px;
+    border-radius:150px;
+}*/
+
